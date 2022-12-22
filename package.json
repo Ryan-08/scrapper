@@ -1,0 +1,20 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "web scrapper",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryan-08/scrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryan-08/scrapper/issues"
+  },
+  "homepage": "https://github.com/Ryan-08/scrapper#readme"
+}
